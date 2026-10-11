@@ -1,0 +1,10 @@
+# Local working files only
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+.tmp/
+coverage/
+
